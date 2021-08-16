@@ -1,3 +1,1 @@
-test for feature-A
-
-test for branch
+test for git
