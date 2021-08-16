@@ -2,4 +2,4 @@ test for fa
 
 test for fb
 
-faeture C
+feature C
